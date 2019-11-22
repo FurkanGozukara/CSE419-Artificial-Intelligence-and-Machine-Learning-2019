@@ -1,0 +1,7 @@
+C:\Users\Furkan Gözükara\Desktop\yapay zeka ve makine ogrenme\example programming codes\lecture 11 example feature vector\bin\Debug\lecture 11 example feature vector.exe.config
+C:\Users\Furkan Gözükara\Desktop\yapay zeka ve makine ogrenme\example programming codes\lecture 11 example feature vector\bin\Debug\lecture 11 example feature vector.exe
+C:\Users\Furkan Gözükara\Desktop\yapay zeka ve makine ogrenme\example programming codes\lecture 11 example feature vector\bin\Debug\lecture 11 example feature vector.pdb
+C:\Users\Furkan Gözükara\Desktop\yapay zeka ve makine ogrenme\example programming codes\lecture 11 example feature vector\obj\Debug\lecture 11 example feature vector.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\yapay zeka ve makine ogrenme\example programming codes\lecture 11 example feature vector\obj\Debug\lecture 11 example feature vector.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\yapay zeka ve makine ogrenme\example programming codes\lecture 11 example feature vector\obj\Debug\lecture 11 example feature vector.exe
+C:\Users\Furkan Gözükara\Desktop\yapay zeka ve makine ogrenme\example programming codes\lecture 11 example feature vector\obj\Debug\lecture 11 example feature vector.pdb

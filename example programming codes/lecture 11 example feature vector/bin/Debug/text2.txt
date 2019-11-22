@@ -1,0 +1,46 @@
+BARCELONA — With a degree in computer science and a master’s in human-computer interaction, Gina Assaf worked in software engineering and interaction design for tech companies before deciding she could use these same skills to improve the work of global development organizations.
+
+Assaf, now a digital design consultant, works with development organizations and their recipient communities to think through which technologies and systems could streamline and support their work. Her role involves asking the right questions to understand both the client and user needs, she said, and creating “artefacts” such as mock-ups and workflows that communicate to others how the technology will help.
+
+Research design is about communicating the needs of those groups “in a way that is actionable and can lead to useful digital solutions to whoever is going to build them … It's figuring out ways to get input on the direction of a technology or building it,” she explained.
+
+Assaf started working in development over four years ago and believes there is now more awareness of how software developers, programmers, and computer scientists can contribute to the sector — as well as plenty of opportunities for them to do so.
+
+If you are looking to start working with mission-driven organizations, meetup events and groups such as Design Gigs For Good are a great place to start. Devex spoke to Assaf for her tips on entering the sector.
+
+This conversation has been edited for length and clarity.
+
+What’s an example of a project you’ve worked on?
+
+Read more
+
+► 4 emerging tech careers in development
+
+► The growing demand for digital skills in global development
+
+► Keeping up with global development: Skills in demand
+
+► What top technologies should the next generation know how to use?
+
+I’ve worked with the IRC [International Rescue Committee] in Jordan. They were looking at solving a problem for their employees working on job matching with refugees and the population in Jordan. [We helped them] think through their pain points in these programs and [for] these job employment officers in doing their work — [the question was] how we could help them streamline that process and then come up with flows that would better serve how they were doing their work and recommend a design of the product that we ultimately built for them.
+
+How did you transition to the development sector?
+
+I had taken a course at Carnegie Mellon [University] around this. We actually worked with a project with migrant workers on understanding how to teach them languages in the countries they are migrating to. But I've always been somewhat interested in that space and especially as I grew up kind of all over the world ... [I] wanted to figure out how I could contribute some of my skill set to fixing some of the issues or solving some of the problems that I've seen ...
+
+I was working in San Francisco at a start-up and I started thinking, what if I took the skill set [to] work in an area that I would make more of a social impact. I happened to come across a job posting in my alumni group — a fellow alumni from Carnegie Mellon recognized the need for bringing in more people with our background to the field and posted a job ... to help think through a product. That was my first foray and my real job in the sector.
+
+Get development's most important headlines in your inbox every day.
+Email
+Subscribe
+What do you enjoy most about working on design for development organizations?
+
+Working just in technology that's solving any random problem, that didn't feel as satisfying to me. Also what I like about it is the multidisciplinary [approach]. I do think the best way to get innovative and good solutions is working in an interdisciplinary area where you have experts in different fields — whether you're an education expert, a conflict resolution expert — bringing in different ideas. And then thinking through how technology [can help] ... and how you can bring [the people that you’re solving for] into the process because that's also important. Working in the global development world has a lot of complex factors that make it a lot more interesting and challenging but also fun for me.
+
+What new skills and approaches have you had to learn specifically for working in this sector?
+
+One that comes to mind is understanding how the global or social sector donor-funded models work, and how that plays into how you would go about implementing design and technology. It's a challenge right now because it's an area that I think could use a lot more rethinking. And understanding the jargon, the organizational structure, how things work — those were huge learning curves for me. Understanding that helps me be a bit more impactful in how I think I could employ my work or help drive the sector in ways that are a little bit more productive.
+
+The other one is when working with vulnerable communities, how to do proper design research and how to make sure you're not only designing for [them] but being more inclusive in how you're building the capacity of the people that you're working with … maybe involving [the communities] in the design process or getting them to actually do their own design thinking. That part I've had to learn to do more of because I think it's super important to do in this field.
+
+Devex, with financial support from our partner 2U, is exploring the skills and education development sector professionals will need for the future. Visit the Focus on: DevPros 2030 page for more.

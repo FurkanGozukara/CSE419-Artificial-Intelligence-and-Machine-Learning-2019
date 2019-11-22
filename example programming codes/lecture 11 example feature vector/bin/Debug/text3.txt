@@ -1,0 +1,38 @@
+Computer science and engineering professor receives $3.5 million NSF grant
+Mahmut Kandemir will use the grant to improve widely used workflow management system
+
+PENN STATE
+
+     
+IMAGE
+IMAGE: MAHMUT KANDEMIR, PROFESSOR OF COMPUTER SCIENCE AND ENGINEERING, LEFT; AND ANTON NEKRUTENKO, PROFESSOR OF BIOCHEMISTRY AND MOLECULAR BIOLOGY. view more 
+
+CREDIT: PENN STATE COLLEGE OF ENGINEERING
+
+In order to share, integrate and analyze research, scientists from many disciplines rely on Galaxy, a scientific workflow-management system. Despite its popularity, the system currently is not compatible with technology that would increase its speed and expand its functionality. Now, Mahmut Kandemir, professor of computer science and engineering in the Penn State College of Engineering, is working to integrate that technology and improve the capabilities of Galaxy.
+
+The $3.5 million National Science Foundation grant was awarded to Kandemir, the project's principal investigator, and three co-PIs: Chita Das, department head and professor of computer science and engineering; Paul Medvedev, associate professor of computer science and engineering and biochemistry and molecular biology; and Anton Nekrutenko, professor of biochemistry and molecular biology.
+
+The group will focus mainly on improving the speed and functionality of Galaxy by making the system compatible with graphics processing units (GPUs).
+
+"One of the distinguishing characteristics of GPUs as compared to the conventional central processing units, or CPUs, is that you can have thousands of computational threads, and they're doing a job collaboratively," Kandemir said. "If you're solving a scientific simulation problem, you can solve it in a much faster way than current, more conventional systems allow."
+
+Kandemir estimates that a GPU version of an application could improve the speed and the time to solution by anywhere between ten and 100 times the current speed of the CPU version for the same application.
+
+He explains that there are two main thrusts to this research.
+
+"First, we are going to restructure the core of Galaxy so it can take advantage of the GPU resources available in the architecture where it is running," he said. "Secondly, the tools that are running currently in Galaxy are not written for GPUs. We are going to focus on some frequently used tools and programs with the intention of converting them to the GPU version so they will be part of this enhanced version of Galaxy, and everyone else can use them."
+
+The researchers will reconfigure Galaxy to be compatible with field programmable gate arrays (FPGA) as well. FPGAs can implement programs in hardware instead of software, so adding this capability to Galaxy will increase its functionality.
+
+While Kandemir emphasizes that Galaxy is used in many disciplines, he chose to work with faculty from biochemistry and molecular biology in part because he personally believes that this century will be one of significant breakthroughs in biology.
+
+"We now get insight into genomes and biological problems that wasn't possible before, and computer software is partially responsible for that, especially since we can do a lot of things with computers that were unimaginable a while ago," he said.
+
+The collaboration is one of the most important parts of the research, according to Kandemir.
+
+"The most exciting part of the project is bringing together computer science students with students from biology, bioinformatics, biochemistry and molecular biology so that they can collaborate and understand each other and find solutions to real, pressing scientific problems," he said.
+
+Kandemir is also looking forward to the effect their project could have on research in general.
+
+"Another very exciting aspect is that we could speed up science," he said. "Our goal in this project is to reduce the scientific discovery from hours to minutes and minutes to seconds. And right now, a huge community of people use Galaxy world-wide. It's going to be very impactful."
